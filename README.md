@@ -1,4 +1,4 @@
-# auth-project
+# auth-project-mobile
 :bust_in_silhouette: Projeto React Native de autenticação com Context API e Hooks
 
 ## 🔥 Instalação e execução
