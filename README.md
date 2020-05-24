@@ -1,6 +1,16 @@
 # auth-project-mobile
 :bust_in_silhouette: Projeto React Native de autenticação com Context API e Hooks
 
+## :rocket: Tecnologias Usadas
+
+O projeto foi feito com as seguintes tecnologias:
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [Axios](https://github.com/axios/axios)
+{...}
+
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
