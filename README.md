@@ -9,6 +9,7 @@ O projeto foi feito com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
+- [API Context](https://pt-br.reactjs.org/docs/context.html#api)
 {...}
 
 ## 🔥 Instalação e execução
