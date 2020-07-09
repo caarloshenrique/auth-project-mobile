@@ -12,6 +12,10 @@ O projeto foi feito com as seguintes tecnologias:
 - [API Context](https://pt-br.reactjs.org/docs/context.html#api)
 {...}
 
+## :clipboard: Pré-requisitos
+
+- [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
